@@ -1,1 +1,3 @@
-# KataCalculator
+# KataCalculatorA
+
+Первая версия калькулятора 
